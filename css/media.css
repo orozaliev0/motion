@@ -1,0 +1,467 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+  #hero {
+    min-height: 75vh;
+  }
+}
+@media (max-width: 1200px) {
+  #hero {
+    min-height: 100vh;
+  }
+  #hero .hero--general h1 {
+    margin-left: 74px;
+  }
+  #hero .hero--general h2 {
+    margin-left: 74px;
+  }
+  #hero .hero--general p {
+    margin-left: 74px;
+  }
+  #about .about--general__div {
+    flex-wrap: wrap;
+  }
+  #hero .hero--general button {
+    margin-left: 74px;
+  }
+  #header .navbar--general__title img {
+    display: none;
+  }
+  #hero .hero--general h1 {
+    font-size: 70px;
+  }
+  #hero .hero--general h2 {
+    font-size: 66px;
+  }
+  #hero .hero--general p {
+    font-size: 20px;
+  }
+  #page .page--general__tabs {
+    flex-wrap: wrap;
+  }
+  #off .off--general section {
+    margin-left: -200px;
+  }
+  #off .off--general h1 {
+    margin-left: -200px;
+  }
+  #ffa .ffa--general__block {
+    width: 90%;
+  }
+  #ffa .ffa--general__block:before {
+    left: 820px;
+  }
+  #footer .footer--general__cer {
+    width: 90%;
+  }
+  #page .page--general__block {
+    width: 90%;
+  }
+  #page .page--general label {
+    padding: 0 39px;
+  }
+}
+@media (max-width: 1024px) {
+  #header .navbar--general button {
+    display: none;
+  }
+  #page .page--general label {
+    padding: 0 15px;
+    margin-left: 34px;
+  }
+  #faq .faq--general .accordion {
+    margin-left: 20px;
+  }
+  #faq .faq--general .panel {
+    margin-left: 23px;
+  }
+  #ffa .ffa--general__block input {
+    width: auto;
+  }
+  #ffa .ffa--general__block:before {
+    left: 676px;
+  }
+  #footer .footer--general__two {
+    margin-left: 55px;
+  }
+  #footer .footer--general__cer {
+    margin-left: 52px;
+  }
+  #ffa .ffa--general__block {
+    margin-left: 91px;
+  }
+  #ffa .ffa--general button {
+    margin-left: -159px;
+  }
+}
+@media (max-width: 992px) {
+  #header .navbar--general__logo {
+    margin-left: -36px;
+  }
+  #hero .hero--general h1 {
+    margin-left: 150px;
+  }
+  #hero .hero--general h2 {
+    margin-left: 150px;
+  }
+  #hero .hero--general p {
+    margin-left: 150px;
+  }
+  #hero .hero--general button {
+    margin-left: 150px;
+  }
+  #off .off--general section {
+    margin-left: -161px;
+  }
+  #off .off--general h1 {
+    margin-left: -137px;
+  }
+  #ffa .ffa--general__block input {
+    width: 287px;
+  }
+  #ffa .ffa--general__block__text input {
+    padding: 46px 208px;
+  }
+  #ffa .ffa--general__block:before {
+    left: 650px;
+  }
+}
+@media (max-width: 768px) {
+  #header .navbar--general .hamburger-menu {
+    display: block;
+  }
+  #header .navbar--general__title a {
+    display: none;
+  }
+  #header .navbar--general__title a {
+    display: none;
+  }
+  .hamburger-menu {
+    display: block;
+  }
+  #hero .hero--general h1 {
+    margin-left: 350px;
+  }
+  #hero .hero--general h2 {
+    margin-left: 350px;
+  }
+  #hero .hero--general p {
+    margin-left: 350px;
+  }
+  #hero .hero--general button {
+    margin-left: 350px;
+  }
+  #ffa .ffa--general__block input {
+    width: 217px;
+  }
+  #ffa .ffa--general__block__text input {
+    padding: 46px 162px;
+  }
+  #ffa .ffa--general__block:before {
+    left: 468px;
+  }
+  #ffa .ffa--general button {
+    margin-left: -247px;
+  }
+  #off .off--general section {
+    margin-left: -57px;
+  }
+  #off .off--general h1 {
+    margin-left: -29px;
+  }
+  #page .page--general label {
+    padding: 0 23px;
+    margin-left: 54px;
+  }
+  #page .page--general__swiper .swiper {
+    display: none;
+  }
+  #page .page--general h1 {
+    display: none;
+  }
+}
+@media (max-width: 576px) {
+  #con .con--general .swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 300px;
+    display: none;
+  }
+  #con .con--general h1 {
+    display: none;
+  }
+  #hero .hero--general h1 {
+    margin-left: 375px;
+    font-size: 50px;
+  }
+  #hero .hero--general h2 {
+    font-size: 56px;
+    margin-left: 375px;
+  }
+  #hero .hero--general p {
+    font-size: 18px;
+    margin-left: 375px;
+  }
+  #hero .hero--general button {
+    width: 241px;
+    font-size: 18px;
+    margin-left: 375px;
+  }
+  #page .page--general label {
+    padding: 0 0;
+    margin-left: 56px;
+  }
+  #off .off--general section {
+    margin-left: -2px;
+  }
+  #off .off--general h1 {
+    margin-left: 19px;
+  }
+  #off .off--general input.accordion + label {
+    font-size: 26px;
+  }
+  #ffa .ffa--general__block input {
+    width: 354px;
+    margin: 9px 20px;
+  }
+  #ffa .ffa--general__block__input2 {
+    padding-top: 1px;
+  }
+  #ffa .ffa--general__block__text input {
+    padding: 29px 34px;
+  }
+  #ffa .ffa--general__block {
+    height: 500px;
+  }
+  #ffa .ffa--general__block:before {
+    left: 313px;
+    top: 352px;
+  }
+  #ffa .ffa--general button {
+    margin-left: -349px;
+  }
+  #footer .footer--general__two {
+    flex-wrap: wrap;
+    margin-left: 29px;
+  }
+  #footer .footer--general__logo {
+    padding-bottom: 32px;
+  }
+  #footer .footer--general__block {
+    padding-top: 10px;
+  }
+}
+@media (max-width: 451px) {
+  #con .con--general .swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 300px;
+    display: none;
+  }
+  #con .con--general h1 {
+    display: none;
+  }
+  #hero .hero--general h1 {
+    margin-left: 475px;
+    font-size: 50px;
+  }
+  #hero .hero--general h2 {
+    margin-left: 475px;
+    font-size: 50px;
+  }
+  #hero .hero--general p {
+    margin-left: 475px;
+    font-size: 17px;
+  }
+  #hero .hero--general button {
+    margin-left: 475px;
+    font-size: 14px;
+    width: 232px;
+  }
+  #about .about--general__title p {
+    font-size: 14px;
+    padding-bottom: 48px;
+  }
+  #page .page--general label {
+    margin-left: 24px;
+  }
+  #page .page--general__block {
+    margin-left: 23px;
+  }
+  #off .off--general h2 {
+    font-size: 22px;
+    padding-bottom: 40px;
+  }
+  #off .off--general input.accordion + label {
+    font-size: 20px;
+  }
+  #ffa .ffa--general h1 {
+    font-size: 28px;
+  }
+  #ffa .ffa--general__block {
+    margin-left: 25px;
+    height: 490px;
+  }
+  #ffa .ffa--general__block input {
+    width: 307px;
+    margin: 5px 20px;
+  }
+  #ffa .ffa--general__block__text input {
+    padding: 29px 10px;
+  }
+  #ffa .ffa--general__block:before {
+    left: 211px;
+    top: 342px;
+  }
+  #ffa .ffa--general button {
+    margin-left: -402px;
+    width: 236px;
+  }
+}
+@media (max-width: 400px) {
+  #hero .hero--general button {
+    font-size: 13px;
+    width: 200px;
+    height: 50px;
+  }
+  #hero .hero--general p {
+    font-size: 15px;
+  }
+  #about .about--general__title p {
+    font-size: 12px;
+  }
+  #ffa .ffa--general h1 {
+    font-size: 24px;
+    padding-bottom: 44px;
+  }
+  #ffa .ffa--general__block input {
+    width: 267px;
+  }
+  #ffa .ffa--general__block__input2 input {
+    font-size: 14px;
+  }
+  #ffa .ffa--general__block__input input {
+    font-size: 14px;
+  }
+  #ffa .ffa--general__block:before {
+    left: 170px;
+    top: 340px;
+  }
+  #footer .footer--general__logo {
+    padding-left: 79px;
+  }
+}
+@media (max-width: 376px) {
+  #hero .hero--general h1 {
+    font-size: 42px;
+  }
+  #hero .hero--general h2 {
+    font-size: 42px;
+  }
+  #about .about--general__title p {
+    font-size: 15px;
+  }
+  #about .about--general__block h1 {
+    font-size: 21px;
+  }
+  #con .con--general h1 {
+    font-size: 28px;
+    padding-bottom: 25px;
+  }
+  #page .page--general label {
+    margin-left: 14px;
+  }
+  #off .off--general input.accordion + label {
+    font-size: 18px;
+  }
+  #faq .faq--general .accordion {
+    font-size: 27px;
+  }
+  #ffa .ffa--general__block input {
+    width: 247px;
+  }
+  #ffa .ffa--general__block:before {
+    left: 151px;
+  }
+  #ffa .ffa--general button {
+    margin-left: -419px;
+    width: 187px;
+  }
+  #footer .footer--general h1 {
+    font-size: 18px;
+  }
+  #footer .footer--general__cer {
+    margin-left: 26px;
+  }
+}
+@media (max-width: 351px) {
+  #ffa .ffa--general__block input {
+    width: 223px;
+  }
+  #ffa .ffa--general__block:before {
+    left: 130px;
+  }
+  #off .off--general h2 {
+    padding-top: 113px;
+  }
+  #off .off--general h2 {
+    font-size: 22px;
+  }
+  #about .about--general__block p {
+    font-size: 15px;
+  }
+  #about .about--general__title p {
+    font-size: 12px;
+  }
+}
+@media (max-width: 320px) {
+  #hero .hero--general h1 {
+    font-size: 39px;
+    margin-left: 493px;
+  }
+  #hero .hero--general h2 {
+    font-size: 39px;
+    margin-left: 493px;
+  }
+  #hero .hero--general p {
+    margin-left: 493px;
+    font-size: 14px;
+  }
+  #hero .hero--general button {
+    margin-left: 493px;
+    width: 194px;
+    height: 47px;
+  }
+  #header .navbar--general__logo {
+    margin-left: -89px;
+  }
+  #about .about--general__title p {
+    font-size: 11px;
+  }
+  #about .about--general__block p {
+    font-size: 14px;
+  }
+  #about .about--general__block h1 {
+    font-size: 18px;
+  }
+  #page .page--general label {
+    margin-left: 5px;
+    padding: 0 5px;
+  }
+  #off .off--general h2 {
+    font-size: 20px;
+    padding-bottom: 15px;
+  }
+  #ffa .ffa--general__block input {
+    width: 202px;
+  }
+  #ffa .ffa--general__block:before {
+    left: 106px;
+  }
+  #footer .footer--general__block a {
+    font-size: 14px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */

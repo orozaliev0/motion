@@ -1,0 +1,34 @@
+
+
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 90%;
+}
+
+ a {
+   text-decoration: none;
+ }
+
+
+ @mixin btn {
+   border: 2px solid mediumvioletred;
+   border-radius: 10px;
+   background: transparent;
+   width: 130px;
+   height: 40px;
+   font-family: 'Montserrat',sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   color: #F5F7F9;
+   transition: .4s;
+ }
+ .btn:hover {
+  transform: scale(1.1);
+ }
